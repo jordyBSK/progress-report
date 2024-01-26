@@ -11,7 +11,10 @@ const links = [
       { text: 'React', link: '/languages/react'}
   ]},
   { text: 'Projects', items: [
-    { text: 'Rust todo list', link: '/projects/rust-todo'},
+      { text: 'Rust todo list', link: '/projects/rust-todo'},
+      { text: 'java Tic-Tac-Toe', link: '/projects/java-tic-tac-toe'},
+      { text: 'Site Static', link: '/projects/site-static'},
+      { text: 'Grade calculator', link: '/projects/grade-calculator'},
   ]},
 ]
 
@@ -50,12 +53,12 @@ export default defineConfig({
 
     socialLinks: [
       // Replace link with yor own GitHub repo or github profile
-      { icon: 'github', link: 'https://github.com/jobtrek/progress-report' }
+      { icon: 'github', link: 'https://github.com/jordyBSK/progress-report' }
     ],
 
     editLink: {
       // Change first part of path to your repo name
-      pattern: 'https://github.com/jobtrek/progress-report/edit/main/src/:path',
+      pattern: 'https://github.com/jordyBSK/progress-report/edit/main/src/:path',
       text: 'Edit this page on GitHub'
     }
   }
