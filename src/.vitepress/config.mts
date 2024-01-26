@@ -8,11 +8,11 @@ const links = [
       { text: 'Html', link: '/languages/html'},
       { text: 'JavaScript', link: '/languages/javascript'},
       { text: 'Java', link: '/languages/java'},
-      { text: 'React', link: '/languages/react'}
+      { text: 'React', link: '/languages/react'},{ text: 'PHP', link: '/languages/php'}
   ]},
   { text: 'Projects', items: [
       { text: 'Rust todo list', link: '/projects/rust-todo'},
-      { text: 'java Tic-Tac-Toe', link: '/projects/java-tic-tac-toe'},
+      { text: 'Java Tic-Tac-Toe', link: '/projects/java-tic-tac-toe'},
       { text: 'Site Static', link: '/projects/site-static'},
       { text: 'Grade calculator', link: '/projects/grade-calculator'},
       { text: 'Ecomaille', link: '/projects/ecomaille'},
