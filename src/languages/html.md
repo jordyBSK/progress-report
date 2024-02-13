@@ -7,8 +7,9 @@
 
 ## Le HTML
 
-Le HTML est le langage de balisage utilisé pour créer des pages Web. Il permet de structurer le contenu en utilisant des balises pour définir les éléments comme les titres, les paragraphes, les liens, et les images. Grâce au HTML, les navigateurs peuvent interpréter et afficher le contenu Web de manière cohérente.
-
+Le HTML est le langage de balisage utilisé pour créer des pages Web. Il permet de structurer le contenu en utilisant des
+balises pour définir les éléments comme les titres, les paragraphes, les liens, et les images. Grâce au HTML, les
+navigateurs peuvent interpréter et afficher le contenu Web de manière cohérente.
 
 ```Html
 <!DOCTYPE html>
@@ -34,10 +35,10 @@ Le HTML est le langage de balisage utilisé pour créer des pages Web. Il permet
 </html>
  ```
 
-
 ## Le CSS
 
-Souvent associé au HTML, le CSS, ou Cascading Style Sheets, est un langage de feuille de style utilisé pour styliser et formater le contenu des pages Web.
+Souvent associé au HTML, le CSS, ou Cascading Style Sheets, est un langage de feuille de style utilisé pour styliser et
+formater le contenu des pages Web.
 
 ```css
 /* Style pour le titre principal */
@@ -61,8 +62,9 @@ p {
     font-family: Arial, sans-serif; /* Police de caractères */
     line-height: 1.5; /* Hauteur de ligne */
 }
-
 ```
+
+#### My projects with HTML CSS
 
 - [Integration Web](../projects/integration-web.md)
 - [Site-static](../projects/site-static.md)

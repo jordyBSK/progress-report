@@ -5,5 +5,5 @@
 
 
 
-###### my projects using Java
+###### My projects using Java
 - [Tic-Tac-Toe Java ](../projects/java-tic-tac-toe.md)
