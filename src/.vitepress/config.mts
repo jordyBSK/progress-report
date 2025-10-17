@@ -23,7 +23,7 @@ const links = [
     },
     {
         text: 'Projects', items: [
-            {text: 'google analytics odoo', link: '/projects/my-compassion-letters-page'},
+            {text: 'my compassion letters page', link: '/projects/my-compassion-letters-page'},
             {text: 'google analytics odoo', link: '/projects/google-analytics-odoo'},
             {text: 'Rust todo list', link: '/projects/rust-todo'},
             {text: 'Java Tic-Tac-Toe', link: '/projects/java-tic-tac-toe'},
