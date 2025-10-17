@@ -1,4 +1,4 @@
-# PHP <Badge type="tip" text="PHP" />
+# Python <Badge type="tip" text="Python" />
 
 ---
 
