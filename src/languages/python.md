@@ -2,7 +2,6 @@
 
 ---
 
-![python](../images/python-3-logo-png-transparent.png)
 Python est un langage de programmation libre, polyvalent et très populaire, utilisé aussi bien pour le développement d’applications web que pour l’analyse de données, l’intelligence artificielle et l’automatisation.
 
 ###### Frameworks 
