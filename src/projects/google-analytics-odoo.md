@@ -1,7 +1,7 @@
 # Analyse du site web
 
 L’objectif de ce module **Odoo** est d’intégrer les données de **Google Analytics** directement dans l’interface Odoo.  
-Le but principal est de vous permettre de consulter et d’analyser les statistiques du site web **Compassion** — telles que les pages vues et les utilisateurs actifs — sans quitter votre environnement de travail Odoo.
+Le but principal est de pouvoir consulter et d’analyser les statistiques du site web **Compassion** — telles que les pages vues et les utilisateurs actifs — sans quitter votre environnement de travail Odoo.
 
 ---
 
@@ -15,8 +15,6 @@ Ce module vous permet de :
 
 
 ---
-
-Une fois ces deux paramètres correctement remplis, le module sera **fonctionnel**, et vous pourrez commencer à **générer vos rapports d’analyse de site web**.
 
 
 ![React](../images/Screenshot%20from%202025-10-17%2009-58-47.png)
