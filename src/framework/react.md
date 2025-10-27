@@ -8,3 +8,4 @@ React est un framework Javascript qui permet de simplifier l'interaction de l'ut
 
 #### My projects using React
 - [Grades calculator with React](../projects/grade-calculator.md)
+- [Climate-Guardian](../projects/climate-guardian.md)
