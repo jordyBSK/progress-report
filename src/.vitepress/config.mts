@@ -23,17 +23,18 @@ const links = [
     },
     {
         text: 'Projects', items: [
-            {text: 'my compassion letters page', link: '/projects/my-compassion-letters-page'},
-            {text: 'google analytics odoo', link: '/projects/google-analytics-odoo'},
-            {text: 'Rust todo list', link: '/projects/rust-todo'},
-            {text: 'Java Tic-Tac-Toe', link: '/projects/java-tic-tac-toe'},
-            {text: 'Site Static', link: '/projects/site-static'},
-            {text: 'integration web', link: '/projects/integration-web'},
-            {text: 'Grade calculator', link: '/projects/grade-calculator'},
-            {text: 'Ecomaille', link: '/projects/ecomaille'},
-            {text: 'Todo Login PHP', link: '/projects/todo-php'},
-            {text: 'Blog PHP - Twig', link: '/projects/blog-php-twig'},
-        ]
+    {text: 'Ecomaille', link: '/projects/ecomaille'},
+    {text: 'Site Static', link: '/projects/site-static'},
+    {text: 'Rust todo list', link: '/projects/rust-todo'},
+    {text: 'Grade calculator', link: '/projects/grade-calculator'},
+    {text: 'Todo Login PHP', link: '/projects/todo-php'},
+    {text: 'custom 404 page', link: '/projects/404-page'},
+    {text: 'Java Tic-Tac-Toe', link: '/projects/java-tic-tac-toe'},
+    {text: 'integration web', link: '/projects/integration-web'},
+    {text: 'Blog PHP - Twig', link: '/projects/blog-php-twig'},
+    {text: 'google analytics odoo', link: '/projects/google-analytics-odoo'},
+    {text: 'my compassion letters page', link: '/projects/my-compassion-letters-page'},
+]
     },
 ]
 
