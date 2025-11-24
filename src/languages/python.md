@@ -14,3 +14,5 @@ Python est un langage de programmation libre, polyvalent et très populaire, uti
 - [google analytics odoo](../projects/google-analytics-odoo.md)
 
 - [my compassion letters page](../projects/my-compassion-letters-page.md)
+
+- [custom 404 error ](../projects/404-page.md)

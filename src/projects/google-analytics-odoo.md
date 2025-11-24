@@ -17,6 +17,6 @@ Ce module vous permet de :
 ---
 
 
-![React](../images/Screenshot%20from%202025-10-17%2009-58-47.png)
+![](../images/Screenshot%20from%202025-10-17%2009-58-47.png)
 
-![React](../images/Screenshot%20from%202025-10-17%2010-00-56.png)
+![](../images/Screenshot%20from%202025-10-17%2010-00-56.png)
