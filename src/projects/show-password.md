@@ -1,4 +1,7 @@
-# Tâche réalisée : Ajout d’un bouton pour afficher/masquer le mot de passe
+# Ajout d’un bouton pour afficher/masquer le mot de passe
+
+
+![React](../images/password-eye.png)
 
 ## Contexte
 Sur les formulaires de création de compte et de connexion, les utilisateurs ne pouvaient pas visualiser ce qu’ils saisissaient dans le champ mot de passe.  
