@@ -23,18 +23,22 @@ const links = [
     },
     {
         text: 'Projects', items: [
-    {text: 'Ecomaille', link: '/projects/ecomaille'},
-    {text: 'Site Static', link: '/projects/site-static'},
-    {text: 'Rust todo list', link: '/projects/rust-todo'},
-    {text: 'Grade calculator', link: '/projects/grade-calculator'},
-    {text: 'Todo Login PHP', link: '/projects/todo-php'},
-    {text: 'custom 404 page', link: '/projects/404-page'},
-    {text: 'Java Tic-Tac-Toe', link: '/projects/java-tic-tac-toe'},
-    {text: 'integration web', link: '/projects/integration-web'},
-    {text: 'Blog PHP - Twig', link: '/projects/blog-php-twig'},
-    {text: 'google analytics odoo', link: '/projects/google-analytics-odoo'},
-    {text: 'my compassion letters page', link: '/projects/my-compassion-letters-page'},
-]
+            {text: 'Ecomaille', link: '/projects/ecomaille'},
+            {text: 'Site Static', link: '/projects/site-static'},
+            {text: 'Rust todo list', link: '/projects/rust-todo'},
+            {text: 'Grade calculator', link: '/projects/grade-calculator'},
+            {text: 'Todo Login PHP', link: '/projects/todo-php'},
+            {text: 'custom 404 page', link: '/projects/404-page'},
+            {text: 'Child\'s pictures in Timeline', link: '/projects/child-picture'},
+            {text: 'Show password', link: '/projects/show-password'},
+            {text: 'improve error on scan', link: '/projects/improve-error-on-scan'},
+            {text: 'Change icon on translation platform', link: '/projects/change-icon'},
+            {text: 'Java Tic-Tac-Toe', link: '/projects/java-tic-tac-toe'},
+            {text: 'integration web', link: '/projects/integration-web'},
+            {text: 'Blog PHP - Twig', link: '/projects/blog-php-twig'},
+            {text: 'google analytics odoo', link: '/projects/google-analytics-odoo'},
+            {text: 'my compassion letters page', link: '/projects/my-compassion-letters-page'},
+        ]
     },
 ]
 

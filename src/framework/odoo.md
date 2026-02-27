@@ -41,3 +41,20 @@ class ProductCategory(models.Model):
     name = fields.Char(string='Nom de la catégorie', required=True)
     description = fields.Text(string='Description')
     active = fields.Boolean(string='Actif', default=True)
+```
+
+###### My projects using Odoo
+
+- [google analytics odoo](../projects/google-analytics-odoo.md)
+
+- [my compassion letters page](../projects/my-compassion-letters-page.md)
+
+- [custom 404 error ](../projects/404-page.md)
+
+- [Child's pictures in Timeline](../projects/child-picture.md)
+
+- [Change translation platform icon](../projects/change-icon.md)
+
+- [show password on login form](../projects/show-password.md)
+
+- [Improve error on letters scan](../projects/Improve-error-scan.md)
