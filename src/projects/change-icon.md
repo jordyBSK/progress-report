@@ -1,4 +1,4 @@
-# Tâche réalisée : Changement de l’icône de la plateforme de traduction 8.10.2024
+# Changement de l’icône de la plateforme de traduction 8.10.2024
 
 ## Objectif
 Mettre à jour l’icône de la plateforme de traduction pour refléter le nouveau design ou la nouvelle identité visuelle.

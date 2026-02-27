@@ -1,4 +1,4 @@
-# Tâche réalisée : Amélioration des messages d’erreur lors de l’importation des lettres par le SDS
+# Amélioration des messages d’erreur lors de l’importation des lettres par le SDS - 04.12.2024
 
 ## Objectif
 Rendre les messages d’erreur lors de l’importation des lettres plus compréhensibles pour les utilisateurs non techniques et documenter le workflow de scan.
