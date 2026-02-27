@@ -31,7 +31,7 @@ const links = [
             {text: 'custom 404 page', link: '/projects/404-page'},
             {text: 'Child\'s pictures in Timeline', link: '/projects/child-picture'},
             {text: 'Show password', link: '/projects/show-password'},
-            {text: 'improve error on scan', link: '/projects/improve-error-on-scan'},
+            {text: 'improve error on scan', link: '/projects/Improve-error-scan'},
             {text: 'Change icon on translation platform', link: '/projects/change-icon'},
             {text: 'Java Tic-Tac-Toe', link: '/projects/java-tic-tac-toe'},
             {text: 'integration web', link: '/projects/integration-web'},
