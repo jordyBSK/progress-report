@@ -1,11 +1,11 @@
 # Afficher/Masquer le mot de passe
 
-- **Technologies :** [À compléter, ex: JavaScript, HTML/CSS]
+- **Technologies :** Odoo, JavaScript, HTML/CSS
 - **Date de réalisation :** 21.10.2024
 - **Durée :** [À compléter]
-- **Lieu de réalisation :** [À compléter]
-- **Note :** [À compléter]
-- **Compétences opérationnelles acquises :** [À compléter]
+- **Lieu de réalisation :** Compassion Suisse, Rue Galilée 3, 1400 Yverdon-les-Bains
+- **Note (auto-évaluation) :** 5
+- **Compétences opérationnelles acquises :** G2, G3, G4, G5, G6
 
 ## Description
 Sur les formulaires de création de compte et de connexion, les utilisateurs ne pouvaient pas visualiser ce qu’ils saisissaient, entraînant des erreurs de saisie. L'objectif était d'améliorer l’expérience utilisateur en ajoutant une fonctionnalité d'affichage temporaire du mot de passe.
