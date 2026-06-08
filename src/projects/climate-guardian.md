@@ -1,4 +1,4 @@
-#  Climate-Guardian
+#  Climate-Guardian 18 juin 2024 Jobtrek
 
 Le projet **Climate-Guardian** a été réalisé pour l'organisation à but non lucratif **Memoires-informatiques**.  
 Cette organisation possède un vaste patrimoine d'ordinateurs anciens et d’appareils électroniques rares, nécessitant un **stockage dans des conditions environnementales stables** afin d’éviter toute dégradation due à la chaleur ou à l’humidité.

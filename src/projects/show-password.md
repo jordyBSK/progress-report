@@ -1,29 +1,22 @@
-# Ajout d’un bouton pour afficher/masquer le mot de passe 21.10.2024
+# Afficher/Masquer le mot de passe
 
+- **Technologies :** [À compléter, ex: JavaScript, HTML/CSS]
+- **Date de réalisation :** 21.10.2024
+- **Durée :** [À compléter]
+- **Lieu de réalisation :** [À compléter]
+- **Note :** [À compléter]
+- **Compétences opérationnelles acquises :** [À compléter]
 
-![React](../images/password-eye.png)
+## Description
+Sur les formulaires de création de compte et de connexion, les utilisateurs ne pouvaient pas visualiser ce qu’ils saisissaient, entraînant des erreurs de saisie. L'objectif était d'améliorer l’expérience utilisateur en ajoutant une fonctionnalité d'affichage temporaire du mot de passe.
 
-## Contexte
-Sur les formulaires de création de compte et de connexion, les utilisateurs ne pouvaient pas visualiser ce qu’ils saisissaient dans le champ mot de passe.  
-Cela peut entraîner des erreurs de saisie et une mauvaise expérience utilisateur.
+**Travaux effectués :**
+1. **Ajout d’un bouton “œil” :** Permet de basculer la visibilité du champ de mot de passe de type `password` à `text`.
+2. **Comportement sécurisé :** L’affichage ne modifie pas le comportement natif du formulaire et respecte les bonnes pratiques UX.
+3. **Tests fonctionnels :** Vérification sur les formulaires de login et de signup, ainsi que sur différents navigateurs.
 
-## Objectif
-Améliorer l’expérience utilisateur en permettant de visualiser temporairement le mot de passe saisi dans les formulaires de login et de signup, tout en conservant la sécurité du champ.
+**Résultat :**
+Expérience de saisie plus intuitive, réduction des erreurs de frappe tout en maintenant la sécurité.
 
-## Travaux effectués
-1. **Ajout d’un bouton “œil”**
-    - Un petit icône en forme d’œil a été ajouté à côté des champs mot de passe.
-    - Lorsque l’utilisateur clique sur l’icône, le mot de passe saisi devient visible, puis peut être masqué à nouveau.
-
-2. **Comportement sécurisé**
-    - L’affichage du mot de passe ne modifie pas le champ de saisie ni ne stocke le mot de passe ailleurs.
-    - L’icône respecte les bonnes pratiques UX pour ce type de fonctionnalité.
-
-3. **Tests fonctionnels**
-    - Vérification sur les formulaires de login et de signup que le bouton fonctionne correctement.
-    - Tests effectués sur différents navigateurs et tailles d’écran pour garantir la compatibilité.
-
-## Résultat
-- Les utilisateurs peuvent désormais voir ce qu’ils ont saisi dans le champ mot de passe.
-- La saisie est plus intuitive et les erreurs de frappe sont réduites.
-- La sécurité des mots de passe est maintenue, et l’expérience utilisateur est améliorée.
+## Aperçu
+![Show Password](../images/password-eye.png)

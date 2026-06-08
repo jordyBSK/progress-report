@@ -1,7 +1,14 @@
-# Tout Doux <Badge type="tip" text="PHP" />
+# Tout Doux (Todo PHP) <Badge type="tip" text="PHP / MySQL" />
 
----
+- **Technologies :** PHP, MySQL, HTML/CSS
+- **Date de réalisation :** [À compléter]
+- **Durée :** [À compléter]
+- **Lieu de réalisation :** [À compléter]
+- **Note :** [À compléter]
+- **Compétences opérationnelles acquises :** [À compléter]
 
-![todo liste](../images/todoPhp.png)
+## Description
+"Tout Doux" est une application de gestion de tâches (Todo List) utilisant PHP comme langage de programmation principal et MySQL pour la base de données. L'application permet aux utilisateurs de créer un compte, de se connecter en toute sécurité et de gérer leurs tâches quotidiennes (CRUD).
 
-Tout Doux is a task management application (Todo List) using PHP as the main programming language and MySQL as the database. The application will allow users to create an account, log in securely and manage their daily tasks.
+## Aperçu / Liens
+![Todo List PHP](../images/todoPhp.png)
