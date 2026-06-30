@@ -1,22 +1,21 @@
-# Amélioration des messages d’erreur lors de l’importation des lettres par le SDS - 04.12.2024
+# Amélioration des messages d’erreur lors de l’importation (SDS)
 
-## Objectif
-Rendre les messages d’erreur lors de l’importation des lettres plus compréhensibles pour les utilisateurs non techniques et documenter le workflow de scan.
+- **Technologies :** Python, Odoo
+- **Date de réalisation :** 04.12.2024
+- **Durée :** [À compléter]
+- **Lieu de réalisation :** Compassion Suisse, Rue Galilée 3, 1400 Yverdon-les-Bains
+- **Note :** [À compléter]
+- **Compétences opérationnelles acquises :** a1, b4, g1, g5, h4
 
-## Travaux effectués
-1. **Amélioration du code d’importation**
-    - Ajout de blocs `try/catch` dans le module `sbc_switzerland` pour gérer les erreurs lors de l’importation des lettres.
-    - Les erreurs courantes, comme un scan mal effectué, génèrent maintenant des messages compréhensibles par le personnel SDS, et non seulement dans les logs IT.
+## Description
+L'objectif est de rendre les messages d’erreur lors de l’importation des lettres plus compréhensibles pour les utilisateurs non techniques et de documenter le workflow de scan.
 
-2. **Ajout de messages d’erreur utilisateur**
-    - Les utilisateurs peuvent maintenant voir des messages clairs indiquant la nature du problème et des actions correctives possibles.
-    - Les messages sont formulés pour être lisibles par des non-informaticiens tout en conservant la précision nécessaire.
+**Travaux effectués :**
+1. **Amélioration du code d’importation :** Ajout de blocs `try/catch` dans le module `sbc_switzerland` pour gérer les erreurs lors de l’importation des lettres. Les erreurs courantes génèrent maintenant des messages compréhensibles par le personnel SDS.
+2. **Ajout de messages d’erreur utilisateur :** Les utilisateurs peuvent maintenant voir des messages clairs indiquant la nature du problème et des actions correctives possibles.
+3. **Documentation du workflow :** Rédaction d’une documentation détaillée sur le workflow de scan dans la Knowledge Base de compassion.odoo.com.
 
-3. **Documentation du workflow**
-    - Rédaction d’une documentation détaillée sur le workflow de scan dans la **Knowledge Base** de compassion.odoo.com.
-    - Explication des étapes d’importation, des erreurs possibles et des actions correctives pour le personnel SDS.
-
-## Résultat
-- Les erreurs lors de l’importation des lettres sont maintenant visibles et compréhensibles par le personnel SDS.
-- Les messages techniques inutiles sont masqués, facilitant la résolution directe de problèmes simples.
-- Une documentation complète du workflow de scan est disponible pour référence.
+**Résultat :**
+- Erreurs visibles et compréhensibles par le personnel SDS.
+- Messages techniques masqués pour les utilisateurs.
+- Documentation complète disponible.

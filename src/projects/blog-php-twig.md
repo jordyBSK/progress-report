@@ -1,11 +1,16 @@
-# BLOG PHP <Badge type="tip" text="twig" />
+# Blog Personnel PHP <Badge type="tip" text="PHP / Twig / Slim" />
 
----
+- **Technologies :** PHP, Twig, Slim Framework
+- **Date de réalisation :** 02.02.2024
+- **Durée :** 10 jours
+- **Lieu de réalisation :** Jobtrek, Rue du Jura 11, 1004 Lausanne
+- **Note :** [À compléter]
+- **Compétences opérationnelles acquises :** a1, g1, g4, g5, g6
 
-![todo liste](../images/Blog-php.png)
+## Description
+Ce projet de blog offre une plateforme dynamique et intuitive pour partager des idées. Construit avec PHP et Twig, il combine des fonctionnalités robustes avec une présentation élégante. Que vous soyez un écrivain en herbe ou un blogueur chevronné, il fournit les outils nécessaires pour créer, gérer et partager du contenu attrayant.
 
-This Blog project offers a dynamic and intuitive platform for bloggers to share their ideas. Built with PHP and Twig, it combines robust functionality with elegant presentation. Whether you're an aspiring writer or a seasoned blogger, they give you the tools you need to create, manage and share compelling content.
+Après avoir fait ma todo list en PHP comme premier projet utilisant Slim et Twig, j'ai décidé de réaliser ce blog personnel. J'ai utilisé Slim pour manipuler l'URL à ma guise et éviter de trop grandes lignes de code, favorisant ainsi une architecture propre et modulaire.
 
-Après avoir fait ma todo list en php comme premier projet utilisant slim et twig j'ai décider de realiser un blog personnel
-
-j'ai utiliser slim pour permettre de manipuler l'url a ma guise et eviter des trop grande ligne de code 
+## Aperçu / Liens
+![Aperçu du Blog](../images/Blog-php.png)

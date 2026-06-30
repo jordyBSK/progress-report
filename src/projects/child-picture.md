@@ -1,27 +1,23 @@
-## Extension de la timeline enfant pour inclure les photos des enfants - 19.11.2025
+# Extension de la timeline pour les photos des enfants
 
-### Objectif
-Afficher dans la timeline des enfants, en plus des lettres et des cadeaux, les photos associées à chaque enfant.
+- **Technologies :** SQL, Odoo, HTML, CSS
+- **Date de réalisation :** 19.11.2025
+- **Durée :** [À compléter]
+- **Lieu de réalisation :** Compassion Suisse, Rue Galilée 3, 1400 Yverdon-les-Bains
+- **Note :** [À compléter]
+- **Compétences opérationnelles acquises :** a1, c1, c4, g1, g4, g5
 
-### Travaux effectués
-1. **Modification de la vue SQL**
-   - La vue SQL alimentant la timeline a été étendue pour inclure les données de la table `compassion_child_pictures`.
-   - Chaque photo est désormais transformée en un élément de la timeline avec sa date correspondante.
+## Description
+L'objectif de cette fonctionnalité est d'afficher dans la timeline des enfants, en plus des lettres et des cadeaux, les photos associées à chaque enfant.
 
-2. **Création des éléments de timeline pour les photos**
-   - Les photos apparaissent comme des items individuels dans la timeline.
-   - L’icône de chaque élément correspond à l’image de la photo (via son URL).
-   - Le titre affiché pour chaque photo est « New photo ».
+**Travaux effectués :**
+1. **Modification de la vue SQL :** La vue SQL alimentant la timeline a été étendue pour inclure les données de la table `compassion_child_pictures`. Chaque photo est désormais transformée en un élément de la timeline avec sa date.
+2. **Création des éléments de timeline :** Les photos apparaissent comme des items individuels. L’icône correspond à l’image, et le titre est « New photo ».
+3. **Maintien du comportement existant :** L’ordre chronologique est respecté, cliquer sur une photo l'ouvre dans un nouvel onglet. Aucun impact sur les autres événements.
 
-3. **Maintien du comportement existant**
-   - L’ordre chronologique de la timeline est respecté, intégrant les photos avec les lettres et cadeaux.
-   - Cliquer sur une photo ouvre l’image complète dans un nouvel onglet ou permet son téléchargement.
-   - Aucun impact sur les éléments existants de type `correspondence` ou `sponsorship_gift`.
+**Résultat :**
+- Les photos s'intègrent de manière fluide dans la timeline.
+- Les fonctionnalités existantes restent intactes.
 
-
-![child picture](../images/child-picture.png)
-
-### Résultat
-- Les photos apparaissent correctement dans la timeline et sont triées par date.
-- Chaque photo affiche son icône et le titre « New photo ».
-- Les fonctionnalités existantes pour les lettres et cadeaux restent intactes.
+## Aperçu / Liens
+![Timeline Enfant](../images/child-picture.png)
