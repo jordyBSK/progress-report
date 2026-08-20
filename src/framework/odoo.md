@@ -45,11 +45,21 @@ class ProductCategory(models.Model):
 
 ###### My projects using Odoo
 
+- [custom 404 error ](../projects/404-page.md)
+
+- [google maps link](../projects/add-google-maps-link.md)
+
+- [Badges gamifications](../projects/Badges-gamification.md)
+
+- [correct translation data](../projects/Correct-translation-data.md)
+
+- [create security ticket](../projects/create-security-ticket.md)
+
+- [resolve secutiry issues](../projects/resolve-security-issues.md)
+
 - [google analytics odoo](../projects/google-analytics-odoo.md)
 
 - [my compassion letters page](../projects/my-compassion-letters-page.md)
-
-- [custom 404 error ](../projects/404-page.md)
 
 - [Child's pictures in Timeline](../projects/child-picture.md)
 
