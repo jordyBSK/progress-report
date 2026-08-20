@@ -38,12 +38,12 @@ const links = [
             {text: 'Blog PHP - Twig', link: '/projects/blog-php-twig'},
             {text: 'google analytics odoo', link: '/projects/google-analytics-odoo'},
             {text: 'my compassion letters page', link: '/projects/my-compassion-letters-page'},
-            {text: 'Security issues in Odoo', link: '/projects/security-issues'},
-            {text: 'IDOR and XSS security fixes', link: '/projects/security-idor-xss'},
-            {text: 'Badge System', link: '/projects/badge-system'},
-            {text: 'Google Maps links for field offices', link: '/projects/google-maps-field-offices'},
-            {text: 'Intern laptop setup', link: '/projects/intern-laptop'},
-            {text: 'Translation data correction', link: '/projects/translation-data-correction'},
+            {text: 'Security issues in Odoo', link: '/projects/create-security-ticket'},
+            {text: 'IDOR and XSS security fixes', link: '/projects/resolve-security-issues'},
+            {text: 'Badge System', link: '/projects/Badges-gamification'},
+            {text: 'Google Maps links for field offices', link: '/projects/add-google-maps-link'},
+            {text: 'Intern laptop setup', link: '/projects/Prepare-intern-computer'},
+            {text: 'Translation data correction', link: '/projects/Correct-translation-data'},
         ]
     },
 ]
