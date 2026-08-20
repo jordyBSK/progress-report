@@ -43,7 +43,6 @@ const links = [
             {text: 'Badge System', link: '/projects/badge-system'},
             {text: 'Google Maps links for field offices', link: '/projects/google-maps-field-offices'},
             {text: 'Intern laptop setup', link: '/projects/intern-laptop'},
-            {text: 'TOGETHER platform and thank you emails', link: '/projects/together-platform'},
             {text: 'Translation data correction', link: '/projects/translation-data-correction'},
         ]
     },
