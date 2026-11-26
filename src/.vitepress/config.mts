@@ -11,6 +11,7 @@ const links = [
             {text: 'JavaScript', link: '/languages/javascript'},
             {text: 'Java', link: '/languages/java'},
             {text: 'PHP', link: '/languages/php'},
+            {text: 'SQL', link: '/languages/sql'},
         ]
     },
     {
