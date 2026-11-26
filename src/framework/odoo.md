@@ -68,3 +68,13 @@ class ProductCategory(models.Model):
 - [show password on login form](../projects/show-password.md)
 
 - [Improve error on letters scan](../projects/Improve-error-scan.md)
+
+- [Odoo back-office fixes](../projects/odoo-backoffice-fixes.md)
+
+- [Letter scanning fixes](../projects/letter-import-fixes.md)
+
+- [Forget me (data protection)](../projects/forget-me.md)
+
+- [Odoo 18 migration](../projects/odoo-18-migration.md)
+
+- [Gamification project management](../projects/gamification-project.md)

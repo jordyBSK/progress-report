@@ -1,11 +1,12 @@
 # Création de liens Google Maps pour les bureaux de terrain
 
 * **Technologies :** Odoo, Python, XML, JavaScript, GMC API, Google Maps
-* **Date de réalisation :** [À compléter]
+* **Ticket :** #2588
+* **Date de réalisation :** 02.2025
 * **Durée :** [À compléter]
 * **Lieu de réalisation :** Compassion Suisse, Rue Galilée 3, 1400 Yverdon-les-Bains
 * **Note :** [À compléter]
-* **Compétences opérationnelles acquises :** [À compléter]
+* **Compétences opérationnelles acquises :** a1, b4, g1, g5
 
 ## Description
 

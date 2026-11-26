@@ -1,13 +1,16 @@
-# Export quotidien de la table (Backups Communication)
+# Récupération de communications perdues depuis les backups
 
 - **Technologies :** PostgreSQL, DBeaver
-- **Date de réalisation :** Juillet et Août 2024
+- **Ticket :** #2410 (suite du ticket T1783)
+- **Date de réalisation :** 12.2024
 - **Durée :** [À compléter]
 - **Lieu de réalisation :** Compassion Suisse, Rue Galilée 3, 1400 Yverdon-les-Bains
 - **Note :** [À compléter]
-- **Compétences opérationnelles acquises :** c4, f8
+- **Compétences opérationnelles acquises :** b2, c4, f8
 
 ## Description
+Des communications avec les partenaires avaient été perdues. Pour les retrouver, il fallait extraire les données des sauvegardes de la base, jour par jour, avec des requêtes SQL dans DBeaver.
+
 La table `partner_log_other_interaction` contient l’historique des interactions importantes avec les partenaires. Il était nécessaire d’obtenir des exports fiables et quotidiens de cette table pour certaines dates précises.
 L'objectif était de fournir des fichiers CSV complets de la table pour les dates demandées, en s’assurant que chaque backup soit restauré à un moment précis (15:59:00) et que les fichiers soient organisés de façon standardisée.
 

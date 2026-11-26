@@ -1,11 +1,12 @@
 # Amélioration des messages d’erreur lors de l’importation (SDS)
 
 - **Technologies :** Python, Odoo
+- **Ticket :** #2486
 - **Date de réalisation :** 04.12.2024
 - **Durée :** [À compléter]
 - **Lieu de réalisation :** Compassion Suisse, Rue Galilée 3, 1400 Yverdon-les-Bains
 - **Note :** [À compléter]
-- **Compétences opérationnelles acquises :** a1, b4, g1, g5, h4
+- **Compétences opérationnelles acquises :** a1, b2, b4, g1, g5, h4
 
 ## Description
 L'objectif est de rendre les messages d’erreur lors de l’importation des lettres plus compréhensibles pour les utilisateurs non techniques et de documenter le workflow de scan.
@@ -19,3 +20,4 @@ L'objectif est de rendre les messages d’erreur lors de l’importation des let
 - Erreurs visibles et compréhensibles par le personnel SDS.
 - Messages techniques masqués pour les utilisateurs.
 - Documentation complète disponible.
+- Ce refactoring a ensuite facilité la correction des autres problèmes d'import : voir [Corrections et améliorations du scan des lettres](./letter-import-fixes.md).

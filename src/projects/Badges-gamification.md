@@ -1,15 +1,16 @@
-# Conception et spécification du système de badges
+# Système de badges, récompenses et progression
 
 * **Technologies :** Odoo, Python, JavaScript, OWL, PostgreSQL
-* **Date de réalisation :** [À compléter]
+* **Tâches :** Badge, Rewards, and Progress System – EPIC 3
+* **Date de réalisation :** 09.2026 – 11.2026
 * **Durée :** [À compléter]
 * **Lieu de réalisation :** Compassion Suisse, Rue Galilée 3, 1400 Yverdon-les-Bains
 * **Note :** [À compléter]
-* **Compétences opérationnelles acquises :** [À compléter]
+* **Compétences opérationnelles acquises :** c1, c2, g1, g2, g4, g5, g6
 
 ## Description
 
-Dans le cadre de l'amélioration de la plateforme de traduction, j'ai travaillé sur la conception fonctionnelle d'un **système de badges** destiné à introduire un système de gamification.
+Dans le cadre de l'amélioration de la plateforme de traduction, j'ai conçu puis développé un **système de badges** destiné à introduire un système de gamification.
 
 L'objectif est de motiver les traducteurs en récompensant leurs contributions et leur régularité. Les badges permettent aux utilisateurs de visualiser leurs accomplissements et leur progression.
 
@@ -39,9 +40,20 @@ Le système doit être transparent, cohérent, évolutif et capable de mettre à
 
 9. **Définition des critères d'acceptation :** J'ai établi les critères permettant de vérifier que le système fonctionne correctement, notamment l'attribution des badges, le calcul de la progression, la cohérence entre le backend et l'interface et l'absence de doublons.
 
+**Implémentation :**
+
+Après la [préparation du projet](./gamification-project.md), la [migration vers Odoo 18](./odoo-18-migration.md) et la [correction des données](./Correct-translation-data.md), j'ai développé le système :
+
+1. **Structure des badges (09.2026) :** création des modèles et des données des badges selon la structure définie.
+2. **Logique de calcul (09.2026) :** attribution automatique des badges selon l'activité du traducteur.
+3. **Barre de progression (09.2026) :** ajout d'une barre de progression visible dans l'interface.
+4. **Profil traducteur gamifié (09.2026) :** création d'une page de profil qui affiche les badges et les statistiques.
+5. **Données backend (10.2026) :** préparation et structuration des données nécessaires côté backend.
+6. **Progression vers le prochain badge (11.2026) :** le traducteur voit ce qu'il lui manque pour obtenir le badge suivant.
+
 **Résultat :**
 
-* Une spécification fonctionnelle complète du système de badges a été réalisée.
+* Une spécification fonctionnelle complète du système de badges a été réalisée, puis implémentée.
 * Les différentes catégories et règles d'attribution ont été définies.
 * La structure nécessaire à la gestion des badges et de leur attribution a été spécifiée.
 * Le fonctionnement de la progression et de l'interface utilisateur a été défini.

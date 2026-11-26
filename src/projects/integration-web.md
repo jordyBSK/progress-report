@@ -5,7 +5,7 @@
 - **Durée :** 1 semaine
 - **Lieu de réalisation :** [Jobtrek, Rue du Jura 11, 1004 Lausanne
 - **Note :** [À compléter]
-- **Compétences opérationnelles acquises :** g2, g5
+- **Compétences opérationnelles acquises :** g2, g5, g6
 
 ## Description
 Projet centré sur l'intégration d'une maquette web en HTML et CSS, en respectant le design et la responsivité.

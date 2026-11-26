@@ -12,11 +12,11 @@ hero:
       link: /introduction
     - theme: alt
       text: Github repo
-      link: https://github.com/jobtrek/progress-report
+      link: https://github.com/jordyBSK/progress-report
 
 features:
   - title: My projects
-    details: Diffrent projects I have worked on.
+    details: Different projects I have worked on.
     link: /projects/rust-todo
     linkText: See my projects
   - title: Programming languages

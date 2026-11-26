@@ -1,11 +1,12 @@
 # Préparation et configuration d'un ordinateur pour une nouvelle stagiaire
 
 * **Technologies :** Ubuntu 22.04, Odoo, Google Workspace, Slack, Linphone, VPN, LibreOffice
+* **Ticket :** #2507
 * **Date de réalisation :** Octobre 2024
 * **Durée :** [À compléter]
 * **Lieu de réalisation :** Compassion Suisse, Rue Galilée 3, 1400 Yverdon-les-Bains
 * **Note :** [À compléter]
-* **Compétences opérationnelles acquises :** [À compléter]
+* **Compétences opérationnelles acquises :** b1, b2
 
 ## Description
 
@@ -42,3 +43,5 @@ La stagiaire devait principalement effectuer des tâches liées à Odoo, au scan
 * Le VPN et la téléphonie SIP ont été mis en place.
 * L'accès aux imprimantes et au dossier de scan a été vérifié.
 * Le poste était ainsi prêt pour son arrivée et son utilisation dans le cadre de ses activités professionnelles.
+
+Voir aussi les autres tâches de [support IT et préparation de matériel](./it-support.md).

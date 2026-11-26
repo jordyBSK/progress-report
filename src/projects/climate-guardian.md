@@ -5,7 +5,7 @@
 - **Durée :** 1 mois
 - **Lieu de réalisation :** Jobtrek, Rue du Jura 11, 1004 Lausanne
 - **Note :** [À compléter]
-- **Compétences opérationnelles acquises :** a1, c1, c2, g1, g2, g4, g5
+- **Compétences opérationnelles acquises :** a1, a4, a6, a7, c1, c2, c4, g1, g2, g4, g5, g6
 
 ## Description
 Le projet **Climate-Guardian** a été réalisé pour l'organisation à but non lucratif **Mémoires-informatiques**. Cette organisation possède un vaste patrimoine d'ordinateurs anciens et d’appareils électroniques rares, nécessitant un stockage dans des conditions environnementales stables afin d’éviter toute dégradation (chaleur, humidité).

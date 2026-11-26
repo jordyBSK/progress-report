@@ -1,11 +1,12 @@
 # Extension de la timeline pour les photos des enfants
 
 - **Technologies :** SQL, Odoo, HTML, CSS
+- **Ticket :** #3273
 - **Date de réalisation :** 19.11.2025
 - **Durée :** [À compléter]
 - **Lieu de réalisation :** Compassion Suisse, Rue Galilée 3, 1400 Yverdon-les-Bains
 - **Note :** [À compléter]
-- **Compétences opérationnelles acquises :** a1, c1, c4, g1, g4, g5
+- **Compétences opérationnelles acquises :** a1, c1, c4, g1, g4, g5, g6
 
 ## Description
 L'objectif de cette fonctionnalité est d'afficher dans la timeline des enfants, en plus des lettres et des cadeaux, les photos associées à chaque enfant.

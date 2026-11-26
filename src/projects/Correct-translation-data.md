@@ -1,11 +1,12 @@
 # Correction et normalisation des données de traduction
 
 * **Technologies :** Odoo, Python, PostgreSQL, SQL
-* **Date de réalisation :** [À compléter]
+* **Tâche :** Correct existing translation data [EPIC 2]
+* **Date de réalisation :** 10.2026
 * **Durée :** [À compléter]
 * **Lieu de réalisation :** Compassion Suisse, Rue Galilée 3, 1400 Yverdon-les-Bains
 * **Note :** [À compléter]
-* **Compétences opérationnelles acquises :** [À compléter]
+* **Compétences opérationnelles acquises :** c1, c4, g6
 
 ## Description
 

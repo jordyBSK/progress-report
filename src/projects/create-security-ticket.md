@@ -1,11 +1,12 @@
 # Création de tickets de sécurité dans Odoo
 
 * **Technologies :** Odoo
-* **Date de réalisation :** [À compléter]
+* **Ticket :** #2640
+* **Date de réalisation :** 01.2025
 * **Durée :** [À compléter]
 * **Lieu de réalisation :** Compassion Suisse, Rue Galilée 3, 1400 Yverdon-les-Bains
 * **Note :** [À compléter]
-* **Compétences opérationnelles acquises :** [À compléter]
+* **Compétences opérationnelles acquises :** a4, b3, g3
 
 ## Description
 
@@ -28,3 +29,5 @@
 * Le tag **Security** permet de retrouver facilement les problèmes liés à la sécurité.
 * La priorité permet à l'équipe informatique de traiter en premier les problèmes présentant les risques les plus importants.
 * Le suivi et la gestion des problèmes de sécurité sont ainsi centralisés dans Odoo.
+
+J'ai ensuite corrigé une grande partie de ces failles moi-même : voir [Correction de failles de sécurité IDOR, XSS et énumération d'utilisateurs](./resolve-security-issues.md).

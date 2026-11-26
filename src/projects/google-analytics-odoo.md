@@ -5,7 +5,7 @@
 - **Durée :** 2mois
 - **Lieu de réalisation :** Compassion Suisse, Rue Galilée 3, 1400 Yverdon-les-Bains
 - **Note :** [À compléter]
-- **Compétences opérationnelles acquises :** a1, c4, g1, g4, g5
+- **Compétences opérationnelles acquises :** a1, a3, a4, c1, c2, c4, g1, g2, g4, g5, g6
 
 ## Description
 L’objectif de ce module **Odoo** est d’intégrer les données de **Google Analytics** directement dans l’interface Odoo. Le but principal est de pouvoir consulter et d’analyser les statistiques du site web **Compassion** — telles que les pages vues et les utilisateurs actifs — sans quitter votre environnement de travail Odoo.

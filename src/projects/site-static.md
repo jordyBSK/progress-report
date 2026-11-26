@@ -5,7 +5,7 @@
 - **Durée :** 1 semaine
 - **Lieu de réalisation :** jobtrek, Rue du Jura 11, 1004 Lausanne
 - **Note :** [À compléter]
-- **Compétences opérationnelles acquises :** g2, g5
+- **Compétences opérationnelles acquises :** g2, g5, g6
 
 ## Description
 Développement d'un site web statique utilisant les technologies de base du web (HTML et CSS). L'objectif était de structurer l'information de manière sémantique et de la styliser pour un rendu visuel attractif et responsive.

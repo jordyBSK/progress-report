@@ -22,28 +22,40 @@ const links = [
         ]
     },
     {
-        text: 'Projects', items: [
+        text: 'Projects - Jobtrek', collapsed: true, items: [
             {text: 'Ecomaille', link: '/projects/ecomaille'},
-            {text: 'Site Static', link: '/projects/site-static'},
+            {text: 'Integration web', link: '/projects/integration-web'},
             {text: 'Rust todo list', link: '/projects/rust-todo'},
+            {text: 'Site Static', link: '/projects/site-static'},
+            {text: 'Java Tic-Tac-Toe', link: '/projects/java-tic-tac-toe'},
             {text: 'Grade calculator', link: '/projects/grade-calculator'},
             {text: 'Todo Login PHP', link: '/projects/todo-php'},
-            {text: 'custom 404 page', link: '/projects/404-page'},
-            {text: 'Child\'s pictures in Timeline', link: '/projects/child-picture'},
-            {text: 'Show password', link: '/projects/show-password'},
-            {text: 'improve error on scan', link: '/projects/Improve-error-scan'},
-            {text: 'Change icon on translation platform', link: '/projects/change-icon'},
-            {text: 'Java Tic-Tac-Toe', link: '/projects/java-tic-tac-toe'},
-            {text: 'integration web', link: '/projects/integration-web'},
             {text: 'Blog PHP - Twig', link: '/projects/blog-php-twig'},
-            {text: 'google analytics odoo', link: '/projects/google-analytics-odoo'},
-            {text: 'my compassion letters page', link: '/projects/my-compassion-letters-page'},
+            {text: 'Climate Guardian', link: '/projects/climate-guardian'},
+        ]
+    },
+    {
+        text: 'Projects - Compassion', collapsed: true, items: [
+            {text: 'Odoo back-office fixes', link: '/projects/odoo-backoffice-fixes'},
+            {text: 'Show password', link: '/projects/show-password'},
+            {text: 'Change icon on translation platform', link: '/projects/change-icon'},
+            {text: 'Intern laptop setup', link: '/projects/Prepare-intern-computer'},
+            {text: 'IT support and hardware', link: '/projects/it-support'},
+            {text: 'Improve error on scan', link: '/projects/Improve-error-scan'},
+            {text: 'Lost communications from backups', link: '/projects/backups-communication'},
+            {text: 'Letter scanning fixes', link: '/projects/letter-import-fixes'},
+            {text: 'Forget me (data protection)', link: '/projects/forget-me'},
             {text: 'Security issues in Odoo', link: '/projects/create-security-ticket'},
             {text: 'IDOR and XSS security fixes', link: '/projects/resolve-security-issues'},
-            {text: 'Badge System', link: '/projects/Badges-gamification'},
             {text: 'Google Maps links for field offices', link: '/projects/add-google-maps-link'},
-            {text: 'Intern laptop setup', link: '/projects/Prepare-intern-computer'},
+            {text: 'My Compassion letters page', link: '/projects/my-compassion-letters-page'},
+            {text: 'Google Analytics Odoo', link: '/projects/google-analytics-odoo'},
+            {text: 'Custom 404 page', link: '/projects/404-page'},
+            {text: 'Child\'s pictures in Timeline', link: '/projects/child-picture'},
+            {text: 'Odoo 18 migration', link: '/projects/odoo-18-migration'},
+            {text: 'Gamification project management', link: '/projects/gamification-project'},
             {text: 'Translation data correction', link: '/projects/Correct-translation-data'},
+            {text: 'Badge System', link: '/projects/Badges-gamification'},
         ]
     },
 ]
